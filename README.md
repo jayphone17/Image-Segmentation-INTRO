@@ -1,2 +1,2 @@
-# Image-Classification-INTRO
+# Image-Segamentation-INTRO
 Dive into Image Segamentation
